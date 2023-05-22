@@ -1,0 +1,52 @@
+[
+  {
+    "id": 2458,
+    "link": "https://ugandawildlife.org/national-parks/kibale-national-park/",
+    "name": "Kibale"
+  },
+  {
+    "id": 2457,
+    "link": "https://ugandawildlife.org/national-parks/mount-elgon-national-park/",
+    "name": "Mount Elgon"
+  },
+  {
+    "id": 2456,
+    "link": "https://ugandawildlife.org/national-parks/rwenzori-mountains/",
+    "name": "Rwenzori Mountains"
+  },
+  {
+    "id": 2455,
+    "link": "https://ugandawildlife.org/national-parks/semuliki-national-park/",
+    "name": "Semuliki"
+  },
+  {
+    "id": 2454,
+    "link": "https://ugandawildlife.org/national-parks/mgahinga-gorilla-national-park/",
+    "name": "Mgahinga Gorilla"
+  },
+  {
+    "id": 2453,
+    "link": "https://ugandawildlife.org/national-parks/murchison-falls-national-park/",
+    "name": "Murchison Falls"
+  },
+  {
+    "id": 2452,
+    "link": "https://ugandawildlife.org/national-parks/queen-elizabeth-national-park/",
+    "name": "Queen Elizabeth"
+  },
+  {
+    "id": 1197,
+    "link": "https://ugandawildlife.org/national-parks/lake-mburo/",
+    "name": "Lake Mburo"
+  },
+  {
+    "id": 990,
+    "link": "https://ugandawildlife.org/national-parks/bwindi-impenetrable-national-park/",
+    "name": "Bwindi Impenetrable"
+  },
+  {
+    "id": 975,
+    "link": "https://ugandawildlife.org/national-parks/kidepo-valley-national-park/",
+    "name": "Kidepo Valley"
+  }
+]
